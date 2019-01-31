@@ -25,7 +25,6 @@ def mostFrequent(arr, n):
     return res
 
 
-# Driver Code
 arr = [1, 5, 5, 1, 3, 5, 2, 1]
 n = len(arr)
 print(mostFrequent(arr, n))
